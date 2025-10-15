@@ -21,7 +21,7 @@ This is a simple One-Time Password (OTP) login system implemented in Python. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/otp-login-system.git
+   git clone https://github.com/taham256/otp-login-system.git
    cd otp-login-system
    
 ## set up environment variables on machine:
