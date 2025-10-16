@@ -22,7 +22,7 @@ This is a simple One-Time Password (OTP) login system implemented in Python. It 
 1. Clone the repository:
    ```bash
    git clone https://github.com/taham256/authentication.git
-   cd otp-login-system
+   cd authentication
    
 ## set up environment variables on machine:
 •On Linux/Mac:
